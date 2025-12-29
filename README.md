@@ -1,7 +1,7 @@
 # Web-Form-Testing-Project
 Tested a user registration web form to ensure proper input validation, UI behavior, and functional correctness using manual testing techniques and Selenium automation.
 
-🧪 Selenium Automation – User Registration Form
+#🧪 Selenium Automation – User Registration Form
 📌 Project Overview
 
 This project demonstrates end-to-end web automation testing using Selenium WebDriver with Python.
@@ -15,7 +15,7 @@ DOM element interaction
 
 Basic UI test automation workflow
 
-🛠 Tech Stack Used
+#🛠 Tech Stack Used
 
 Python
 
@@ -25,16 +25,7 @@ HTML, CSS, JavaScript
 
 Chrome Browser
 
-📂 Project Structure
-selenium-registration-test/
-│
-├── index.html        # User registration UI
-├── style.css         # Styling for the form
-├── script.js         # Client-side form validation
-├── one.py            # Selenium automation test script
-└── README.md         # Project documentation
-
-🚀 What This Automation Does
+#🚀 What This Automation Does
 
 The Selenium script (one.py) performs the following steps:
 
@@ -62,7 +53,7 @@ Closes the browser
 
 This mimics real user interaction, not dummy testing.
 
-🧠 Selenium Concepts Demonstrated
+#🧠 Selenium Concepts Demonstrated
 
 WebDriver initialization
 
